@@ -16,8 +16,8 @@ Download and prepare the dataset using:
 ```
 This tool requires you to have `unrar` and `wget` installed on your system.
 
-This tool generated ground truth data for every single sample, therefore
-it may take a while to finish.
+This tool generates ground truth data for every single sample, therefore
+it may take around 3 hours to finish.
 
 ## Train!
 
